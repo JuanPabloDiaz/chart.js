@@ -34,14 +34,14 @@ In this repository, you'll find the following charts:
 
 ### Built With 🔑
 
-Welcome to the [recharts](https://recharts.jpdiaz.dev), collection.
+Welcome to the [chart](https://chart.jpdiaz.dev), collection.
 
 ![Nextjs](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=Next.js&logoColor=white)
 ![Tailwind-CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
 
 ## Get started 🛠️
 
-To get started with [recharts](https://recharts.jpdiaz.dev), simply clone the repository and follow the setup instructions. You'll be up and running in no time!
+To get started with [chart](https://chart.jpdiaz.dev), simply clone the repository and follow the setup instructions. You'll be up and running in no time!
 
 ### Setup 📋
 
@@ -68,7 +68,7 @@ I welcome contributions to the repo! Feel free to fork the repository and submit
 
 [chart](https://chart.jpdiaz.dev) is licensed under the MIT License.
 
-I hope you enjoy using the recharts repo!
+I hope you enjoy using the chart repo!
 
 <!-- ACKNOWLEDGMENTS -->
 
@@ -76,8 +76,7 @@ I hope you enjoy using the recharts repo!
 
 Resources list that I find helpful and would like to give credit to.
 
-[![chart.js](https://img.shields.io/badge/Recharts-61DAFB.svg?style=for-the-badge&logo=Recharts&logoColor=black)](http://recharts.org/en-US/)
-[![YouTube📺](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=Fu_YFp-9xoQ)
+[![chart.js](https://img.shields.io/badge/chart.js-FF6384.svg?style=for-the-badge&logo=chart.js&logoColor=white)](https://www.chartjs.org/)
 [![Tailwind-CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)](https://tailwindcss.com/)
 [![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=Next.js&logoColor=white)](https://nextjs.org/)
 [![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=Vercel&logoColor=white)](https://vercel.com/)
