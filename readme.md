@@ -62,11 +62,11 @@ I welcome contributions to the repo! Feel free to fork the repository and submit
 
 ### Contributors
 
-<a href="https://github.com/JuanPabloDiaz/recharts/graphs/contributors"><img src="https://contrib.rocks/image?repo=JuanPabloDiaz/recharts" /></a><!-- Made with [contrib.rocks](https://contrib.rocks). -->
+<a href="https://github.com/JuanPabloDiaz/chart.js/graphs/contributors"><img src="https://contrib.rocks/image?repo=JuanPabloDiaz/chart.js" /></a><!-- Made with [contrib.rocks](https://contrib.rocks). -->
 
 ## License 📜
 
-[recharts](https://recharts.jpdiaz.dev) is licensed under the MIT License.
+[chart](https://chart.jpdiaz.dev) is licensed under the MIT License.
 
 I hope you enjoy using the recharts repo!
 
@@ -76,9 +76,8 @@ I hope you enjoy using the recharts repo!
 
 Resources list that I find helpful and would like to give credit to.
 
-[![Recharts](https://img.shields.io/badge/Recharts-61DAFB.svg?style=for-the-badge&logo=Recharts&logoColor=black)](http://recharts.org/en-US/)
+[![chart.js](https://img.shields.io/badge/Recharts-61DAFB.svg?style=for-the-badge&logo=Recharts&logoColor=black)](http://recharts.org/en-US/)
 [![YouTube📺](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=Fu_YFp-9xoQ)
-[![Recharts library](https://img.shields.io/badge/Recharts%20library-000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/CodeSnaps/recharts-library)
 [![Tailwind-CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)](https://tailwindcss.com/)
 [![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=Next.js&logoColor=white)](https://nextjs.org/)
 [![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=Vercel&logoColor=white)](https://vercel.com/)

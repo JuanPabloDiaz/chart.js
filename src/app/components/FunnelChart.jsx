@@ -2,13 +2,7 @@
 import React, { useContext } from "react";
 import { AppContext } from "../../context";
 
-import {
-  Funnel,
-  FunnelChart,
-  LabelList,
-  ResponsiveContainer,
-  Tooltip,
-} from "recharts";
+// import funnel chart
 
 const FunnelChartComponent = () => {
   const { dataFunnel, isLoading } = useContext(AppContext);
@@ -17,21 +11,7 @@ const FunnelChartComponent = () => {
     return <div>Loading...</div>;
   }
 
-  return (
-    <ResponsiveContainer width="100%" height="100%">
-      <FunnelChart width={730} height={250}>
-        <Tooltip />
-        <Funnel dataKey="value" data={dataFunnel} isAnimationActive>
-          <LabelList
-            position="right"
-            // fill="#000" // color of the text
-            stroke="none"
-            dataKey="name"
-          />
-        </Funnel>
-      </FunnelChart>
-    </ResponsiveContainer>
-  );
+  return <div className="w-full h-96">FunnelChart</div>;
 };
 
 export default FunnelChartComponent;

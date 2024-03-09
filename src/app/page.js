@@ -16,7 +16,7 @@ export default function Home() {
         Data Visualization
       </h1>
       <h2 className="text-2xl font-semibold text-white/40 mb-8">
-        A collection of charts built with Recharts
+        A collection of charts built with Chart.js
       </h2>
       <div className="grid xl:grid-cols-3 lg:grid-cols-2 w-full gap-10 max-w-[1400px]">
         <GridItem title="Scatter Chart">

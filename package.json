@@ -1,5 +1,5 @@
 {
-  "name": "recharts",
+  "name": "chartjs",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -12,7 +12,6 @@
     "next": "14.0.3",
     "react": "^18",
     "react-dom": "^18",
-    "recharts": "^2.10.1",
     "tailwind": "^4.0.0"
   },
   "devDependencies": {
@@ -22,6 +21,7 @@
     "eslint": "^8",
     "eslint-config-next": "14.0.3",
     "postcss": "^8",
-    "tailwindcss": "^3.4.1"
+    "tailwindcss": "^3.4.1",
+    "typescript": "5.4.2"
   }
 }

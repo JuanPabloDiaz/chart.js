@@ -2,7 +2,7 @@
 import React, { useContext } from "react";
 import { AppContext } from "../../context";
 
-import { ResponsiveContainer, Treemap } from "recharts";
+// Treemap component
 
 const TreemapComponent = () => {
   const { dataTreemap, isLoading } = useContext(AppContext);
@@ -12,17 +12,9 @@ const TreemapComponent = () => {
   }
 
   return (
-    <ResponsiveContainer width="100%" height="100%">
-      <Treemap
-        width={730}
-        height={250}
-        data={dataTreemap.data}
-        dataKey="size"
-        aspectRatio={4 / 3}
-        stroke="#fff"
-        fill="#8884d8"
-      />
-    </ResponsiveContainer>
+    <div className="w-full h-96">
+      <div>Treemap goes here</div>
+    </div>
   );
 };
 

@@ -6,8 +6,8 @@ import { AppProvider } from "../context";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Recharts Next.js",
-  description: "An example of using Recharts with Next.js",
+  title: "Chart js Next.js",
+  description: "An example of using Chart js with Next.js",
 };
 
 export default function RootLayout({ children }) {
