@@ -68,7 +68,7 @@ const BarChartComponent = () => {
   }, []);
 
   return (
-    <div className="chart">
+    <div className="w-full h-full text-center items-center flex">
       <canvas ref={chartRef} />
     </div>
   );
