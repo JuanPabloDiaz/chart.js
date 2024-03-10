@@ -36,6 +36,7 @@ In this repository, you'll find the following charts:
 
 Welcome to the [chart](https://chart.jpdiaz.dev), collection.
 
+![Chart.js](https://img.shields.io/badge/chart.js-FF6384.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Nextjs](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=Next.js&logoColor=white)
 ![Tailwind-CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
 
