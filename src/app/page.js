@@ -25,23 +25,24 @@ export default function Home() {
         <GridItem title="Composed Chart">
           <ComposedChart />
         </GridItem>
-        <GridItem title="Radar Chart">
-          <RadarChart />
-        </GridItem> */}
         <GridItem title="Area Chart">
           <AreaChart />
         </GridItem>
-        {/* <GridItem title="Pie Chart">
+        <GridItem title="Radar Chart">
+          <RadarChart />
+        </GridItem> */}
+        <GridItem title="Pie Chart">
           <PieChart />
         </GridItem>
         <GridItem title="Bar Chart">
           <BarChart />
         </GridItem>
-        <GridItem title="Funnel Chart">
-          <FunnelChart />
-        </GridItem>
         <GridItem title="Line Chart">
           <LineChart />
+        </GridItem>
+        {/*
+        <GridItem title="Funnel Chart">
+          <FunnelChart />
         </GridItem>
         <GridItem title="Treemap">
           <Treemap />

@@ -31,8 +31,9 @@ const AreaChartComponent = () => {
     chartInstanceRef.current = new Chart(ctx, {
       type: "line",
       data: {
-        labels: ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
+        labels: ["Jan", "Feb", "Mar", "Apr", "May", "Jun"], // x-axis
         datasets: [
+          // y-axis
           {
             label: "Sales",
             data: [3, 2, 1, 5, 4, 6],
@@ -45,6 +46,13 @@ const AreaChartComponent = () => {
             data: [1, 3, 2, 4, 3, 5],
             borderColor: "rgba(54, 162, 235, 1)",
             backgroundColor: "rgba(54, 162, 235, 0.2)",
+            fill: true,
+          },
+          {
+            label: "Revenue",
+            data: [2, 1, 3, 2, 4, 3],
+            borderColor: "rgba(75, 192, 192, 1)",
+            backgroundColor: "rgba(75, 192, 192, 0.2)",
             fill: true,
           },
         ],
