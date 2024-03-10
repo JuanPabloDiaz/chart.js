@@ -20,7 +20,7 @@ In this repository, you'll find the following charts:
 - Composed Chart
 - Customized Dot Line Chart
 
-### Desktop View 🖥️
+<!-- ### Desktop View 🖥️
 
 <img src="./src/assets/images/desktop.png" width="" />
 
@@ -30,7 +30,7 @@ In this repository, you'll find the following charts:
 
 ### Mobile view 📱
 
-<img src="./src/assets/images/phone.png" width="250" />
+<img src="./src/assets/images/phone.png" width="250" /> -->
 
 ### Built With 🔑
 
@@ -61,7 +61,7 @@ To get started with [chart](https://chart.jpdiaz.dev), simply clone the reposito
 
 I welcome contributions to the repo! Feel free to fork the repository and submit pull requests with your improvements.
 
-### Contributors
+### Contributors 🧑‍💻
 
 <a href="https://github.com/JuanPabloDiaz/chart.js/graphs/contributors"><img src="https://contrib.rocks/image?repo=JuanPabloDiaz/chart.js" /></a><!-- Made with [contrib.rocks](https://contrib.rocks). -->
 
