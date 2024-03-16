@@ -32,6 +32,10 @@ In this repository, you'll find the following charts:
 
 <img src="./src/assets/images/phone.png" width="250" /> -->
 
+### Lighthouse Score 🚀
+
+<img src="./src/assets/images/lighthouse.png" />
+
 ### Built With 🔑
 
 Welcome to the [chart](https://chart.jpdiaz.dev), collection.
